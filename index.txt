@@ -1,0 +1,2 @@
+This is the index file for the Git project.
+It contains basic project navigation information.

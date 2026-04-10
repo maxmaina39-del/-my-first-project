@@ -1,0 +1,2 @@
+These are project notes.
+This project demonstrates Git branching, commits, and merges.
