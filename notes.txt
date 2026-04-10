@@ -1,5 +1,0 @@
-1-create new files
-2-stage the files
-3-explore commit history
-4-unstage a file using git restore
-5-push all changes to github 
